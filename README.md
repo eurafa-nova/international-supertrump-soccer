@@ -34,5 +34,4 @@ For code improvements, raise a PR!
 </a>
 <a href="https://www.paypal.com/donate/?business=eu.rafa@gmail.com" alt="Donate via PayPal">
 <img src="PayPal-QR-Code.png" width="100" align="right"/>
-<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" align="right"/>
 </a>
