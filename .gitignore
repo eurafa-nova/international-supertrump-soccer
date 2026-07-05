@@ -3,3 +3,5 @@ dist
 *.local
 .DS_Store
 *.log
+snes-screenshots/
+src/data/data.txt
