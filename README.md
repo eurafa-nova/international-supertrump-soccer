@@ -25,3 +25,10 @@ npm run preview
 For graphics (player images), designers can create or edit PNGs in `src/data/player-images/`! Player images should follow the naming pattern: `{nationalityShort}{number}-{id}.png` (e.g. `arg1-garcia.png`). If a custom image doesn't exist, `player.png` will be used as a fallback.
 
 For code improvements, raise a PR!
+
+---
+
+<a href="https://www.buymeacoffee.com/eurafa" alt="Buy Me A Coffee">
+<img src="https://github.com/eurafa/eurafa/blob/main/buy-me-a-coffee-qr-code.png?raw=true" width="100" align="right"/>
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" align="right"/>
+</a>
