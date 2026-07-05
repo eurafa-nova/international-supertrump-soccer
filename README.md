@@ -32,3 +32,6 @@ For code improvements, raise a PR!
 <img src="https://github.com/eurafa/eurafa/blob/main/buy-me-a-coffee-qr-code.png?raw=true" width="100" align="right"/>
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" align="right"/>
 </a>
+<a href="https://www.paypal.com/donate/?business=eu.rafa@gmail.com" alt="Donate via PayPal">
+<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" align="right"/>
+</a>
