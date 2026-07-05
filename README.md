@@ -4,7 +4,7 @@ This project was created by a super fan of the SNES game International Superstar
 
 ![Galfano (ITA-10)](screenshot.png)
 
-Check it out live: [https://superstartrump.vercel.app](https://superstartrump.vercel.app)
+Check it out live: [https://international-supertrump-soccer.vercel.app/](https://international-supertrump-soccer.vercel.app/)
 
 ## Prerequisites
 - Node.js 18 or later
