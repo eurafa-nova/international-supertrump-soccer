@@ -1,0 +1,1 @@
+export { TrumpCard } from "./TrumpCard";

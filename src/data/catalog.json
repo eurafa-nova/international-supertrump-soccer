@@ -1,0 +1,5084 @@
+{
+  "title": "INTERNATIONAL",
+  "subtitle": "SUPERSTAR SOCCER",
+  "cards": [
+    {
+      "id": "garcia",
+      "name": "Garcia",
+      "nationality": "ARGENTINA",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 5,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "pablo",
+      "name": "Pablo",
+      "nationality": "ARGENTINA",
+      "position": "RE",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "vasquez",
+      "name": "Vasquez",
+      "nationality": "ARGENTINA",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "domingo",
+      "name": "Domingo",
+      "nationality": "ARGENTINA",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "santos",
+      "name": "Santos",
+      "nationality": "ARGENTINA",
+      "position": "MF",
+      "number": 5,
+      "stats": {
+        "technique": 9,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "costa",
+      "name": "Costa",
+      "nationality": "ARGENTINA",
+      "position": "DF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "fuerte",
+      "name": "Fuerte",
+      "nationality": "ARGENTINA",
+      "position": "FW",
+      "number": 7,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "basile",
+      "name": "Basile",
+      "nationality": "ARGENTINA",
+      "position": "RE",
+      "number": 8,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "capitale",
+      "name": "Capitale",
+      "nationality": "ARGENTINA",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 9,
+        "shooting": 15,
+        "speed": 11,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "redonda",
+      "name": "Redonda",
+      "nationality": "ARGENTINA",
+      "position": "MF",
+      "number": 10,
+      "star": true,
+      "stats": {
+        "technique": 15,
+        "shooting": 11,
+        "speed": 14,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "morelli",
+      "name": "Morelli",
+      "nationality": "ARGENTINA",
+      "position": "RE",
+      "number": 11,
+      "stats": {
+        "technique": 3,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "pena",
+      "name": "Pena",
+      "nationality": "ARGENTINA",
+      "position": "MF",
+      "number": 12,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "alerto",
+      "name": "Alerto",
+      "nationality": "ARGENTINA",
+      "position": "DF",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "heretier",
+      "name": "Heretier",
+      "nationality": "ARGENTINA",
+      "position": "MF",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "repala",
+      "name": "Repala",
+      "nationality": "ARGENTINA",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "idenk",
+      "name": "I. Denk",
+      "nationality": "AUSTRIA",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "waldner",
+      "name": "Waldner",
+      "nationality": "AUSTRIA",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "hzacher",
+      "name": "H. Zacher",
+      "nationality": "AUSTRIA",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "ghraska",
+      "name": "G. Hraska",
+      "nationality": "AUSTRIA",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "epolts",
+      "name": "E. Polts",
+      "nationality": "AUSTRIA",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 7,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "kreissle",
+      "name": "Kreissle",
+      "nationality": "AUSTRIA",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "dkerner",
+      "name": "D. Kerner",
+      "nationality": "AUSTRIA",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "wwust",
+      "name": "W. Wust",
+      "nationality": "AUSTRIA",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "plattner",
+      "name": "Plattner",
+      "nationality": "AUSTRIA",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "kohlmeir",
+      "name": "Kohlmeir",
+      "nationality": "AUSTRIA",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "gganser",
+      "name": "G. Ganser",
+      "nationality": "AUSTRIA",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "dreisky",
+      "name": "Dreisky",
+      "nationality": "AUSTRIA",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "hhenze",
+      "name": "H. Henze",
+      "nationality": "AUSTRIA",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "schroth",
+      "name": "Schroth",
+      "nationality": "AUSTRIA",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "jklotz",
+      "name": "J. Klotz",
+      "nationality": "AUSTRIA",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "vanriet",
+      "name": "Van Riet",
+      "nationality": "BELGIUM",
+      "position": "GK",
+      "number": 1,
+      "star": true,
+      "stats": {
+        "technique": 9,
+        "shooting": 15,
+        "speed": 7,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "roche",
+      "name": "Roche",
+      "nationality": "BELGIUM",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "pesant",
+      "name": "Pesant",
+      "nationality": "BELGIUM",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "bonneau",
+      "name": "Bonneau",
+      "nationality": "BELGIUM",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "louis",
+      "name": "Louis",
+      "nationality": "BELGIUM",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "pieters",
+      "name": "Pieters",
+      "nationality": "BELGIUM",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "ronde",
+      "name": "Ronde",
+      "nationality": "BELGIUM",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "gilmont",
+      "name": "Gilmont",
+      "nationality": "BELGIUM",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "boursin",
+      "name": "Boursin",
+      "nationality": "BELGIUM",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "koster",
+      "name": "Koster",
+      "nationality": "BELGIUM",
+      "position": "MF",
+      "number": 10,
+      "stats": {
+        "technique": 15,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "demme",
+      "name": "D'Emme",
+      "nationality": "BELGIUM",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "vanhert",
+      "name": "Van Hert",
+      "nationality": "BELGIUM",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "bopart",
+      "name": "Bopart",
+      "nationality": "BELGIUM",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "devries",
+      "name": "Devries",
+      "nationality": "BELGIUM",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "albert",
+      "name": "Albert",
+      "nationality": "BELGIUM",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "dasilva",
+      "name": "da Silva",
+      "nationality": "BRAZIL",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 5,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "cicero",
+      "name": "Cicero",
+      "nationality": "BRAZIL",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 13,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "paco",
+      "name": "Paco",
+      "nationality": "BRAZIL",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 11,
+        "shooting": 5,
+        "speed": 11,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "vincento",
+      "name": "Vincento",
+      "nationality": "BRAZIL",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 13,
+        "shooting": 7,
+        "speed": 11,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "roca",
+      "name": "Roca",
+      "nationality": "BRAZIL",
+      "position": "MF",
+      "number": 5,
+      "stats": {
+        "technique": 13,
+        "shooting": 7,
+        "speed": 11,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "ferreira",
+      "name": "Ferreira",
+      "nationality": "BRAZIL",
+      "position": "DF",
+      "number": 6,
+      "stats": {
+        "technique": 13,
+        "shooting": 9,
+        "speed": 12,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "allejo",
+      "name": "Allejo",
+      "nationality": "BRAZIL",
+      "position": "FW",
+      "number": 7,
+      "stats": {
+        "technique": 15,
+        "shooting": 9,
+        "speed": 13,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "santos",
+      "name": "Santos",
+      "nationality": "BRAZIL",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 15,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "pardilla",
+      "name": "Pardilla",
+      "nationality": "BRAZIL",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 13,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "beranco",
+      "name": "Beranco",
+      "nationality": "BRAZIL",
+      "position": "MF",
+      "number": 10,
+      "stats": {
+        "technique": 15,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "gomez",
+      "name": "Gomez",
+      "nationality": "BRAZIL",
+      "position": "FW",
+      "number": 11,
+      "star": true,
+      "stats": {
+        "technique": 15,
+        "shooting": 11,
+        "speed": 14,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "sousa",
+      "name": "Sousa",
+      "nationality": "BRAZIL",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 13,
+        "shooting": 15,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "marengez",
+      "name": "Marengez",
+      "nationality": "BRAZIL",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 13,
+        "shooting": 11,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "negros",
+      "name": "Negros",
+      "nationality": "BRAZIL",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 13,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "rivero",
+      "name": "Rivero",
+      "nationality": "BRAZIL",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 13,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "popov",
+      "name": "Popov",
+      "nationality": "BULGARIA",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 5,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "simeonov",
+      "name": "Simeonov",
+      "nationality": "BULGARIA",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 7,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "dimitrov",
+      "name": "Dimitrov",
+      "nationality": "BULGARIA",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "jugov",
+      "name": "Jugov",
+      "nationality": "BULGARIA",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "botev",
+      "name": "Botev",
+      "nationality": "BULGARIA",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 7,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "jurenkov",
+      "name": "Jurenkov",
+      "nationality": "BULGARIA",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "slavkov",
+      "name": "Slavkov",
+      "nationality": "BULGARIA",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "kostv",
+      "name": "Kostv",
+      "nationality": "BULGARIA",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 10,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "penev",
+      "name": "Penev",
+      "nationality": "BULGARIA",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 13,
+        "shooting": 15,
+        "speed": 11,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "bulgov",
+      "name": "Bulgov",
+      "nationality": "BULGARIA",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 13,
+        "shooting": 13,
+        "speed": 11,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "milakov",
+      "name": "Milakov",
+      "nationality": "BULGARIA",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 11,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "saranov",
+      "name": "Saranov",
+      "nationality": "BULGARIA",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "ivanov",
+      "name": "Ivanov",
+      "nationality": "BULGARIA",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 7,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "borsev",
+      "name": "Borsev",
+      "nationality": "BULGARIA",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "kruchev",
+      "name": "Kruchev",
+      "nationality": "BULGARIA",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "yephett",
+      "name": "Yephett",
+      "nationality": "CAMEROON",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 6,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "nationality": "CAMEROON",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 1,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "balou",
+      "name": "Balou",
+      "nationality": "CAMEROON",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "takanaki",
+      "name": "Takanaki",
+      "nationality": "CAMEROON",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "abombe",
+      "name": "Abombe",
+      "nationality": "CAMEROON",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "susi",
+      "name": "Susi",
+      "nationality": "CAMEROON",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 3,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "koto",
+      "name": "Koto",
+      "nationality": "CAMEROON",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "mehdi",
+      "name": "Mehdi",
+      "nationality": "CAMEROON",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "mbuwa",
+      "name": "Mbuwa",
+      "nationality": "CAMEROON",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "logi",
+      "name": "Logi",
+      "nationality": "CAMEROON",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "batik",
+      "name": "Batik",
+      "nationality": "CAMEROON",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "tchuli",
+      "name": "Tchuli",
+      "nationality": "CAMEROON",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 13,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 1
+      }
+    },
+    {
+      "id": "ngawa",
+      "name": "Ngawa",
+      "nationality": "CAMEROON",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "ombe",
+      "name": "Ombe",
+      "nationality": "CAMEROON",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "maboang",
+      "name": "Maboang",
+      "nationality": "CAMEROON",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 11,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "heffez",
+      "name": "Heffez",
+      "nationality": "COLUMBIA",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 5,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "suarez",
+      "name": "Suarez",
+      "nationality": "COLUMBIA",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "muedra",
+      "name": "Muedra",
+      "nationality": "COLUMBIA",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "ramirez",
+      "name": "Ramirez",
+      "nationality": "COLUMBIA",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 7,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "alberto",
+      "name": "Alberto",
+      "nationality": "COLUMBIA",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "perera",
+      "name": "Perera",
+      "nationality": "COLUMBIA",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "almonto",
+      "name": "Almonto",
+      "nationality": "COLUMBIA",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "montoya",
+      "name": "Montoya",
+      "nationality": "COLUMBIA",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "perez",
+      "name": "Perez",
+      "nationality": "COLUMBIA",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 14,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "murillo",
+      "name": "Murillo",
+      "nationality": "COLUMBIA",
+      "position": "MF",
+      "number": 10,
+      "stats": {
+        "technique": 15,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "alvarez",
+      "name": "Alvarez",
+      "nationality": "COLUMBIA",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 16,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "garcia",
+      "name": "Garcia",
+      "nationality": "COLUMBIA",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "martinez",
+      "name": "Martinez",
+      "nationality": "COLUMBIA",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "flores",
+      "name": "Flores",
+      "nationality": "COLUMBIA",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "herrera",
+      "name": "Herrera",
+      "nationality": "COLUMBIA",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "polsen",
+      "name": "P. Olsen",
+      "nationality": "DENMARK",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "sjensen",
+      "name": "S. Jensen",
+      "nationality": "DENMARK",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "poulsen",
+      "name": "Poulsen",
+      "nationality": "DENMARK",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "hmoller",
+      "name": "H. Moller",
+      "nationality": "DENMARK",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "nielsen",
+      "name": "Nielsen",
+      "nationality": "DENMARK",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 9,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "christen",
+      "name": "Christen",
+      "nationality": "DENMARK",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "fmolby",
+      "name": "F. Molby",
+      "nationality": "DENMARK",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "schmeich",
+      "name": "Schmeich",
+      "nationality": "DENMARK",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "rasmusen",
+      "name": "Rasmusen",
+      "nationality": "DENMARK",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 13,
+        "shooting": 11,
+        "speed": 12,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "laudrup",
+      "name": "Laudrup",
+      "nationality": "DENMARK",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 13,
+        "shooting": 11,
+        "speed": 12,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "elstrup",
+      "name": "Elstrup",
+      "nationality": "DENMARK",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "sivebaek",
+      "name": "Sivebaek",
+      "nationality": "DENMARK",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "apingel",
+      "name": "A. Pingel",
+      "nationality": "DENMARK",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 9,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "vilfort",
+      "name": "Vilfort",
+      "nationality": "DENMARK",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "petersen",
+      "name": "Petersen",
+      "nationality": "DENMARK",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 9,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "rbanks",
+      "name": "R. Banks",
+      "nationality": "ENGLAND",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 7,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "swalker",
+      "name": "S. Walker",
+      "nationality": "ENGLAND",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "iadams",
+      "name": "I. Adams",
+      "nationality": "ENGLAND",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "bwright",
+      "name": "B. Wright",
+      "nationality": "ENGLAND",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "jmoore",
+      "name": "J. Moore",
+      "nationality": "ENGLAND",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "charlton",
+      "name": "Charlton",
+      "nationality": "ENGLAND",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "khoodle",
+      "name": "K. Hoodle",
+      "nationality": "ENGLAND",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 13,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "jplatt",
+      "name": "J. Platt",
+      "nationality": "ENGLAND",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 13,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "fmorley",
+      "name": "F. Morley",
+      "nationality": "ENGLAND",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "tkeegan",
+      "name": "T. Keegan",
+      "nationality": "ENGLAND",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "aregis",
+      "name": "A. Regis",
+      "nationality": "ENGLAND",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 11,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "gbrown",
+      "name": "G. Brown",
+      "nationality": "ENGLAND",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "gascoign",
+      "name": "Gascoign",
+      "nationality": "ENGLAND",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "duckham",
+      "name": "Duckham",
+      "nationality": "ENGLAND",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "carling",
+      "name": "Carling",
+      "nationality": "ENGLAND",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "cdidier",
+      "name": "C. Didier",
+      "nationality": "FRANCE",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 7,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "leblanc",
+      "name": "Leblanc",
+      "nationality": "FRANCE",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "ddavide",
+      "name": "D. Davide",
+      "nationality": "FRANCE",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "lecomte",
+      "name": "Lecomte",
+      "nationality": "FRANCE",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "leroux",
+      "name": "Le Roux",
+      "nationality": "FRANCE",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "mdupont",
+      "name": "M. Dupont",
+      "nationality": "FRANCE",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "theirry",
+      "name": "Theirry",
+      "nationality": "FRANCE",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "lfunes",
+      "name": "L. Funes",
+      "nationality": "FRANCE",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "froyere",
+      "name": "F. Royere",
+      "nationality": "FRANCE",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "chatillo",
+      "name": "Chatillo",
+      "nationality": "FRANCE",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "ddubois",
+      "name": "D. Dubois",
+      "nationality": "FRANCE",
+      "position": "FW",
+      "number": 11,
+      "star": true,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "calvier",
+      "name": "Calvier",
+      "nationality": "FRANCE",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "rarnaud",
+      "name": "R. Arnaud",
+      "nationality": "FRANCE",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "gmoreau",
+      "name": "G. Moreau",
+      "nationality": "FRANCE",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "chailleux",
+      "name": "Chailleux",
+      "nationality": "FRANCE",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 9,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "wagner",
+      "name": "Wagner",
+      "nationality": "GERMANY",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 9,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "muller",
+      "name": "Muller",
+      "nationality": "GERMANY",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "kolle",
+      "name": "Kolle",
+      "nationality": "GERMANY",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 11,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "kleimann",
+      "name": "Kleimann",
+      "nationality": "GERMANY",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 7,
+        "shooting": 13,
+        "speed": 10,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "klahold",
+      "name": "Klahold",
+      "nationality": "GERMANY",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "gunther",
+      "name": "Gunther",
+      "nationality": "GERMANY",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "bock",
+      "name": "Bock",
+      "nationality": "GERMANY",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 13,
+        "shooting": 13,
+        "speed": 11,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "stranz",
+      "name": "Stranz",
+      "nationality": "GERMANY",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "kuhnert",
+      "name": "Kuhnert",
+      "nationality": "GERMANY",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 7,
+        "shooting": 13,
+        "speed": 13,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "segel",
+      "name": "Segel",
+      "nationality": "GERMANY",
+      "position": "DF",
+      "number": 10,
+      "star": true,
+      "stats": {
+        "technique": 13,
+        "shooting": 15,
+        "speed": 10,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "sieke",
+      "name": "Sieke",
+      "nationality": "GERMANY",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "lachmann",
+      "name": "Lachmann",
+      "nationality": "GERMANY",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "schindle",
+      "name": "Schindle",
+      "nationality": "GERMANY",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 10,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "ritter",
+      "name": "Ritter",
+      "nationality": "GERMANY",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "rilke",
+      "name": "Rilke",
+      "nationality": "GERMANY",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "groen",
+      "name": "Groen",
+      "nationality": "HOLLAND",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 6,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "dejong",
+      "name": "De Jong",
+      "nationality": "HOLLAND",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 13,
+        "speed": 7,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "heijnen",
+      "name": "Heijnen",
+      "nationality": "HOLLAND",
+      "position": "MF",
+      "number": 3,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 10,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "kadijk",
+      "name": "Kadijk",
+      "nationality": "HOLLAND",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 9,
+        "shooting": 15,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "schurger",
+      "name": "Schurger",
+      "nationality": "HOLLAND",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 13,
+        "speed": 7,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "vanwijk",
+      "name": "Van Wijk",
+      "nationality": "HOLLAND",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 11,
+        "shooting": 11,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "koppers",
+      "name": "Koppers",
+      "nationality": "HOLLAND",
+      "position": "FW",
+      "number": 7,
+      "stats": {
+        "technique": 11,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "degrood",
+      "name": "De Grood",
+      "nationality": "HOLLAND",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 13,
+        "shooting": 15,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "visscher",
+      "name": "Visscher",
+      "nationality": "HOLLAND",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 13,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "bergsen",
+      "name": "Bergsen",
+      "nationality": "HOLLAND",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 11,
+        "shooting": 11,
+        "speed": 13,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "derijk",
+      "name": "De Rijk",
+      "nationality": "HOLLAND",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 11,
+        "shooting": 11,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "jergen",
+      "name": "Jergen",
+      "nationality": "HOLLAND",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 13,
+        "shooting": 15,
+        "speed": 14,
+        "stamina": 3
+      }
+    },
+    {
+      "id": "deveer",
+      "name": "De Veer",
+      "nationality": "HOLLAND",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 11,
+        "shooting": 13,
+        "speed": 12,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "nuyens",
+      "name": "Nuyens",
+      "nationality": "HOLLAND",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 9,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "waatijk",
+      "name": "Waatijk",
+      "nationality": "HOLLAND",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "malin",
+      "name": "Malin",
+      "nationality": "IRELAND",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 5,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "galvin",
+      "name": "Galvin",
+      "nationality": "IRELAND",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan",
+      "nationality": "IRELAND",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 3,
+        "shooting": 13,
+        "speed": 7,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "murphy",
+      "name": "Murphy",
+      "nationality": "IRELAND",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "clancy",
+      "name": "Clancy",
+      "nationality": "IRELAND",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 3,
+        "shooting": 13,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "magee",
+      "name": "Magee",
+      "nationality": "IRELAND",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "bailey",
+      "name": "Bailey",
+      "nationality": "IRELAND",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 1,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "coady",
+      "name": "Coady",
+      "nationality": "IRELAND",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 3,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "bonar",
+      "name": "Bonar",
+      "nationality": "IRELAND",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "kiely",
+      "name": "Kiely",
+      "nationality": "IRELAND",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "cronin",
+      "name": "Cronin",
+      "nationality": "IRELAND",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "smyth",
+      "name": "Smyth",
+      "nationality": "IRELAND",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "dunne",
+      "name": "Dunne",
+      "nationality": "IRELAND",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 3,
+        "shooting": 11,
+        "speed": 7,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "byrne",
+      "name": "Byrne",
+      "nationality": "IRELAND",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 3,
+        "shooting": 7,
+        "speed": 7,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "morrison",
+      "name": "Morrison",
+      "nationality": "IRELAND",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 6,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "pagani",
+      "name": "Pagani",
+      "nationality": "ITALY",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "mancini",
+      "name": "Mancini",
+      "nationality": "ITALY",
+      "position": "RE",
+      "number": 2,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "graziano",
+      "name": "Graziano",
+      "nationality": "ITALY",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "antonini",
+      "name": "Antonini",
+      "nationality": "ITALY",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "premoli",
+      "name": "Premoli",
+      "nationality": "ITALY",
+      "position": "DF",
+      "number": 5,
+      "star": true,
+      "stats": {
+        "technique": 11,
+        "shooting": 13,
+        "speed": 12,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "pabi",
+      "name": "Pabi",
+      "nationality": "ITALY",
+      "position": "DF",
+      "number": 6,
+      "star": true,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "bucario",
+      "name": "Bucario",
+      "nationality": "ITALY",
+      "position": "RE",
+      "number": 7,
+      "stats": {
+        "technique": 9,
+        "shooting": 7,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "passaro",
+      "name": "Passaro",
+      "nationality": "ITALY",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 13,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "carboni",
+      "name": "Carboni",
+      "nationality": "ITALY",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 13,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "galfano",
+      "name": "Galfano",
+      "nationality": "ITALY",
+      "position": "MF",
+      "number": 10,
+      "star": true,
+      "stats": {
+        "technique": 15,
+        "shooting": 11,
+        "speed": 12,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "zappa",
+      "name": "Zappa",
+      "nationality": "ITALY",
+      "position": "MF",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "coliuto",
+      "name": "Coliuto",
+      "nationality": "ITALY",
+      "position": "FW",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "desimone",
+      "name": "Desimone",
+      "nationality": "ITALY",
+      "position": "MF",
+      "number": 13,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "fabrizio",
+      "name": "Fabrizio",
+      "nationality": "ITALY",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "riggio",
+      "name": "Riggio",
+      "nationality": "ITALY",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 9,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "leone",
+      "name": "Leone",
+      "nationality": "MEXICO",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "rivera",
+      "name": "Rivera",
+      "nationality": "MEXICO",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "accosta",
+      "name": "Accosta",
+      "nationality": "MEXICO",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "salazar",
+      "name": "Salazar",
+      "nationality": "MEXICO",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "perez",
+      "name": "Perez",
+      "nationality": "MEXICO",
+      "position": "MF",
+      "number": 5,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "sanchez",
+      "name": "Sanchez",
+      "nationality": "MEXICO",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "moya",
+      "name": "Moya",
+      "nationality": "MEXICO",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "lopez",
+      "name": "Lopez",
+      "nationality": "MEXICO",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "milagro",
+      "name": "Milagro",
+      "nationality": "MEXICO",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 7,
+        "shooting": 13,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "diaz",
+      "name": "Diaz",
+      "nationality": "MEXICO",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "munoz",
+      "name": "Munoz",
+      "nationality": "MEXICO",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "espinoza",
+      "name": "Espinoza",
+      "nationality": "MEXICO",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "montegna",
+      "name": "Montegna",
+      "nationality": "MEXICO",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "medina",
+      "name": "Medina",
+      "nationality": "MEXICO",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "arroyo",
+      "name": "Arroyo",
+      "nationality": "MEXICO",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "bugri",
+      "name": "Bugri",
+      "nationality": "NIGERIA",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 6,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "bukezi",
+      "name": "Bukezi",
+      "nationality": "NIGERIA",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "nkomo",
+      "name": "Nkomo",
+      "nationality": "NIGERIA",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "ugapi",
+      "name": "Ugapi",
+      "nationality": "NIGERIA",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 3,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "bobo",
+      "name": "Bobo",
+      "nationality": "NIGERIA",
+      "position": "MF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "rezi",
+      "name": "Rezi",
+      "nationality": "NIGERIA",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "bilar",
+      "name": "Bilar",
+      "nationality": "NIGERIA",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 3,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "neshu",
+      "name": "Neshu",
+      "nationality": "NIGERIA",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "taliha",
+      "name": "Taliha",
+      "nationality": "NIGERIA",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 3,
+        "shooting": 7,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "mauro",
+      "name": "Mauro",
+      "nationality": "NIGERIA",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "yakuni",
+      "name": "Yakuni",
+      "nationality": "NIGERIA",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "adebade",
+      "name": "Adebade",
+      "nationality": "NIGERIA",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 3,
+        "shooting": 3,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "embibi",
+      "name": "Embibi",
+      "nationality": "NIGERIA",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "amupoti",
+      "name": "Amupoti",
+      "nationality": "NIGERIA",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "okochi",
+      "name": "Okochi",
+      "nationality": "NIGERIA",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "fossen",
+      "name": "Fossen",
+      "nationality": "NORWAY",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 6,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "bjerke",
+      "name": "Bjerke",
+      "nationality": "NORWAY",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "forsell",
+      "name": "Forsell",
+      "nationality": "NORWAY",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 3,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "kjerulf",
+      "name": "Kjerulf",
+      "nationality": "NORWAY",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "nordberg",
+      "name": "Nordberg",
+      "nationality": "NORWAY",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 3,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "thorsen",
+      "name": "Thorsen",
+      "nationality": "NORWAY",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "vigeland",
+      "name": "Vigeland",
+      "nationality": "NORWAY",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 15
+      }
+    },
+    {
+      "id": "vesaas",
+      "name": "Vesaas",
+      "nationality": "NORWAY",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "kvalstad",
+      "name": "Kvalstad",
+      "nationality": "NORWAY",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "bjornsen",
+      "name": "Bjornsen",
+      "nationality": "NORWAY",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "flink",
+      "name": "Flink",
+      "nationality": "NORWAY",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "enhammar",
+      "name": "Enhammar",
+      "nationality": "NORWAY",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "olsen",
+      "name": "Olsen",
+      "nationality": "NORWAY",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 3,
+        "shooting": 11,
+        "speed": 7,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "erikssen",
+      "name": "Erikssen",
+      "nationality": "NORWAY",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "valhal",
+      "name": "Valhal",
+      "nationality": "NORWAY",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "popescu",
+      "name": "Popescu",
+      "nationality": "ROMANIA",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 5,
+        "stamina": 16
+      }
+    },
+    {
+      "id": "cavol",
+      "name": "Cavol",
+      "nationality": "ROMANIA",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "rus",
+      "name": "Rus",
+      "nationality": "ROMANIA",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "holowaty",
+      "name": "Holowaty",
+      "nationality": "ROMANIA",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "iliescu",
+      "name": "Iliescu",
+      "nationality": "ROMANIA",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "gane",
+      "name": "Gane",
+      "nationality": "ROMANIA",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 7,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "fejer",
+      "name": "Fejer",
+      "nationality": "ROMANIA",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "milescu",
+      "name": "Milescu",
+      "nationality": "ROMANIA",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "breszul",
+      "name": "Breszul",
+      "nationality": "ROMANIA",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 12,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "costan",
+      "name": "Costan",
+      "nationality": "ROMANIA",
+      "position": "MF",
+      "number": 10,
+      "stats": {
+        "technique": 13,
+        "shooting": 15,
+        "speed": 10,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "kantemir",
+      "name": "Kantemir",
+      "nationality": "ROMANIA",
+      "position": "MF",
+      "number": 11,
+      "stats": {
+        "technique": 11,
+        "shooting": 9,
+        "speed": 11,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "balcescu",
+      "name": "Balcescu",
+      "nationality": "ROMANIA",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 13,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "josif",
+      "name": "Josif",
+      "nationality": "ROMANIA",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "dracul",
+      "name": "Dracul",
+      "nationality": "ROMANIA",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 13,
+        "speed": 7,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "rodeanu",
+      "name": "Rodeanu",
+      "nationality": "ROMANIA",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 13,
+        "speed": 7,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "smirnov",
+      "name": "Smirnov",
+      "nationality": "RUSSIA",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "borodin",
+      "name": "Borodin",
+      "nationality": "RUSSIA",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 13
+      }
+    },
+    {
+      "id": "petrov",
+      "name": "Petrov",
+      "nationality": "RUSSIA",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "shalimov",
+      "name": "Shalimov",
+      "nationality": "RUSSIA",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "yashin",
+      "name": "Yashin",
+      "nationality": "RUSSIA",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "krylov",
+      "name": "Krylov",
+      "nationality": "RUSSIA",
+      "position": "DF",
+      "number": 6,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "jasykov",
+      "name": "Jasykov",
+      "nationality": "RUSSIA",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 7,
+        "shooting": 13,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "kushkov",
+      "name": "Kushkov",
+      "nationality": "RUSSIA",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "urbanov",
+      "name": "Urbanov",
+      "nationality": "RUSSIA",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "georgy",
+      "name": "Georgy",
+      "nationality": "RUSSIA",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "dmitriov",
+      "name": "Dmitriov",
+      "nationality": "RUSSIA",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "karasov",
+      "name": "Karasov",
+      "nationality": "RUSSIA",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "andropov",
+      "name": "Andropov",
+      "nationality": "RUSSIA",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "aleksov",
+      "name": "Aleksov",
+      "nationality": "RUSSIA",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "vasilov",
+      "name": "Vasilov",
+      "nationality": "RUSSIA",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "song",
+      "name": "Song",
+      "nationality": "S. KOREA",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 6,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "taek",
+      "name": "Taek",
+      "nationality": "S. KOREA",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 3,
+        "speed": 10,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "yang",
+      "name": "Yang",
+      "nationality": "S. KOREA",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "ye",
+      "name": "Ye",
+      "nationality": "S. KOREA",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 1,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "choi",
+      "name": "Choi",
+      "nationality": "S. KOREA",
+      "position": "MF",
+      "number": 5,
+      "stats": {
+        "technique": 9,
+        "shooting": 3,
+        "speed": 10,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "kim",
+      "name": "Kim",
+      "nationality": "S. KOREA",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "yun",
+      "name": "Yun",
+      "nationality": "S. KOREA",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 7,
+        "shooting": 1,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "park",
+      "name": "Park",
+      "nationality": "S. KOREA",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 9,
+        "shooting": 3,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "lee",
+      "name": "Lee",
+      "nationality": "S. KOREA",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 13,
+        "shooting": 5,
+        "speed": 11,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "hwan",
+      "name": "Hwan",
+      "nationality": "S. KOREA",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 3,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "chong",
+      "name": "Chong",
+      "nationality": "S. KOREA",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "sin",
+      "name": "Sin",
+      "nationality": "S. KOREA",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 3,
+        "speed": 11,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "hong",
+      "name": "Hong",
+      "nationality": "S. KOREA",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "ko",
+      "name": "Ko",
+      "nationality": "S. KOREA",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "gu",
+      "name": "Gu",
+      "nationality": "S. KOREA",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 3,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "gmccall",
+      "name": "G. McCall",
+      "nationality": "SCOTLAND",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 5,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "hdurie",
+      "name": "H. Durie",
+      "nationality": "SCOTLAND",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "irobert",
+      "name": "I. Robert",
+      "nationality": "SCOTLAND",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 7
+      }
+    },
+    {
+      "id": "mcclair",
+      "name": "McClair",
+      "nationality": "SCOTLAND",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "pmalpas",
+      "name": "P. Malpas",
+      "nationality": "SCOTLAND",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 7
+      }
+    },
+    {
+      "id": "marshall",
+      "name": "Marshall",
+      "nationality": "SCOTLAND",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 3,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "pherson",
+      "name": "Pherson",
+      "nationality": "SCOTLAND",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 7
+      }
+    },
+    {
+      "id": "mmcstay",
+      "name": "M. McStay",
+      "nationality": "SCOTLAND",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "gallach",
+      "name": "Gallach",
+      "nationality": "SCOTLAND",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "ngough",
+      "name": "N. Gough",
+      "nationality": "SCOTLAND",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "mclaren",
+      "name": "McLaren",
+      "nationality": "SCOTLAND",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "pboyd",
+      "name": "P. Boyd",
+      "nationality": "SCOTLAND",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 13,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 4
+      }
+    },
+    {
+      "id": "hastings",
+      "name": "Hastings",
+      "nationality": "SCOTLAND",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 3,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 7
+      }
+    },
+    {
+      "id": "kwyatt",
+      "name": "K. Wyatt",
+      "nationality": "SCOTLAND",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 1,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "lgoram",
+      "name": "L. Goram",
+      "nationality": "SCOTLAND",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 1,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos",
+      "nationality": "SPAIN",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "romero",
+      "name": "Romero",
+      "nationality": "SPAIN",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "martinez",
+      "name": "Martinez",
+      "nationality": "SPAIN",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 7,
+        "shooting": 13,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "alfredo",
+      "name": "Alfredo",
+      "nationality": "SPAIN",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 5,
+        "shooting": 13,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "perez",
+      "name": "Perez",
+      "nationality": "SPAIN",
+      "position": "MF",
+      "number": 5,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "camacho",
+      "name": "Camacho",
+      "nationality": "SPAIN",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "ortega",
+      "name": "Ortega",
+      "nationality": "SPAIN",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "serrano",
+      "name": "Serrano",
+      "nationality": "SPAIN",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 13,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "fuste",
+      "name": "Fuste",
+      "nationality": "SPAIN",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "garrido",
+      "name": "Garrido",
+      "nationality": "SPAIN",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 11,
+        "speed": 11,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "corierro",
+      "name": "Corierro",
+      "nationality": "SPAIN",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 11,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "clemente",
+      "name": "Clemente",
+      "nationality": "SPAIN",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "jacinto",
+      "name": "Jacinto",
+      "nationality": "SPAIN",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "milan",
+      "name": "Milan",
+      "nationality": "SPAIN",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 3,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "mendoza",
+      "name": "Mendoza",
+      "nationality": "SPAIN",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "svensson",
+      "name": "Svensson",
+      "nationality": "SWEDEN",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 5,
+        "stamina": 14
+      }
+    },
+    {
+      "id": "malm",
+      "name": "Malm",
+      "nationality": "SWEDEN",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 3,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "lundgren",
+      "name": "Lundgren",
+      "nationality": "SWEDEN",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "isaksson",
+      "name": "Isaksson",
+      "nationality": "SWEDEN",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 3,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "ehrsson",
+      "name": "Ehrsson",
+      "nationality": "SWEDEN",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 3,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "enback",
+      "name": "Enback",
+      "nationality": "SWEDEN",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "nilsson",
+      "name": "Nilsson",
+      "nationality": "SWEDEN",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "hansson",
+      "name": "Hansson",
+      "nationality": "SWEDEN",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "lundsson",
+      "name": "Lundsson",
+      "nationality": "SWEDEN",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 7,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "magnus",
+      "name": "Magnus",
+      "nationality": "SWEDEN",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "stenmark",
+      "name": "Stenmark",
+      "nationality": "SWEDEN",
+      "position": "MF",
+      "number": 11,
+      "stats": {
+        "technique": 11,
+        "shooting": 13,
+        "speed": 12,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "erling",
+      "name": "Erling",
+      "nationality": "SWEDEN",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 9,
+        "shooting": 5,
+        "speed": 10,
+        "stamina": 6
+      }
+    },
+    {
+      "id": "jansson",
+      "name": "Jansson",
+      "nationality": "SWEDEN",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "thorn",
+      "name": "Thorn",
+      "nationality": "SWEDEN",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 3,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "borg",
+      "name": "Borg",
+      "nationality": "SWEDEN",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 7,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "steiner",
+      "name": "Steiner",
+      "nationality": "SWITZ",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "rodelli",
+      "name": "Rodelli",
+      "nationality": "SWITZ",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "burgi",
+      "name": "Burgi",
+      "nationality": "SWITZ",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "rother",
+      "name": "Rother",
+      "nationality": "SWITZ",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "francon",
+      "name": "Francon",
+      "nationality": "SWITZ",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "bauer",
+      "name": "Bauer",
+      "nationality": "SWITZ",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 13,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "hauser",
+      "name": "Hauser",
+      "nationality": "SWITZ",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 11,
+        "shooting": 11,
+        "speed": 11,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "meyer",
+      "name": "Meyer",
+      "nationality": "SWITZ",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "umbro",
+      "name": "Umbro",
+      "nationality": "SWITZ",
+      "position": "FW",
+      "number": 9,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "stadler",
+      "name": "Stadler",
+      "nationality": "SWITZ",
+      "position": "MF",
+      "number": 10,
+      "stats": {
+        "technique": 9,
+        "shooting": 9,
+        "speed": 10,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "strolch",
+      "name": "Strolch",
+      "nationality": "SWITZ",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "somfi",
+      "name": "Somfi",
+      "nationality": "SWITZ",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "rutli",
+      "name": "Rutli",
+      "nationality": "SWITZ",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "oetinger",
+      "name": "Oetinger",
+      "nationality": "SWITZ",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "gagnon",
+      "name": "Gagnon",
+      "nationality": "SWITZ",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "duke",
+      "name": "Duke",
+      "nationality": "U.S.A.",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 5,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "herman",
+      "name": "Herman",
+      "nationality": "U.S.A.",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "doughty",
+      "name": "Doughty",
+      "nationality": "U.S.A.",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "ewing",
+      "name": "Ewing",
+      "nationality": "U.S.A.",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 3,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "lawson",
+      "name": "Lawson",
+      "nationality": "U.S.A.",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "marcion",
+      "name": "Marcion",
+      "nationality": "U.S.A.",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "noyes",
+      "name": "Noyes",
+      "nationality": "U.S.A.",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "amati",
+      "name": "Amati",
+      "nationality": "U.S.A.",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "griffin",
+      "name": "Griffin",
+      "nationality": "U.S.A.",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 5,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "peccary",
+      "name": "Peccary",
+      "nationality": "U.S.A.",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "nationality": "U.S.A.",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 11,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "allejano",
+      "name": "Allejano",
+      "nationality": "U.S.A.",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 11,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "mead",
+      "name": "Mead",
+      "nationality": "U.S.A.",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "stern",
+      "name": "Stern",
+      "nationality": "U.S.A.",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 5,
+        "shooting": 5,
+        "speed": 9,
+        "stamina": 8
+      }
+    },
+    {
+      "id": "doyle",
+      "name": "Doyle",
+      "nationality": "U.S.A.",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 9
+      }
+    },
+    {
+      "id": "eyoung",
+      "name": "E. Young",
+      "nationality": "WALES",
+      "position": "GK",
+      "number": 1,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "fhorne",
+      "name": "F. Horne",
+      "nationality": "WALES",
+      "position": "DF",
+      "number": 2,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "philips",
+      "name": "Philips",
+      "nationality": "WALES",
+      "position": "DF",
+      "number": 3,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "sgibbs",
+      "name": "S. Gibbs",
+      "nationality": "WALES",
+      "position": "DF",
+      "number": 4,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "chuges",
+      "name": "C. Huges",
+      "nationality": "WALES",
+      "position": "DF",
+      "number": 5,
+      "stats": {
+        "technique": 5,
+        "shooting": 9,
+        "speed": 7,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "rjones",
+      "name": "R. Jones",
+      "nationality": "WALES",
+      "position": "MF",
+      "number": 6,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "jwalker",
+      "name": "J. Walker",
+      "nationality": "WALES",
+      "position": "MF",
+      "number": 7,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 9,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "hmoon",
+      "name": "H. Moon",
+      "nationality": "WALES",
+      "position": "MF",
+      "number": 8,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "mblack",
+      "name": "M. Black",
+      "nationality": "WALES",
+      "position": "MF",
+      "number": 9,
+      "stats": {
+        "technique": 9,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 12
+      }
+    },
+    {
+      "id": "melville",
+      "name": "Melville",
+      "nationality": "WALES",
+      "position": "FW",
+      "number": 10,
+      "stats": {
+        "technique": 7,
+        "shooting": 11,
+        "speed": 10,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "jenkins",
+      "name": "Jenkins",
+      "nationality": "WALES",
+      "position": "FW",
+      "number": 11,
+      "stats": {
+        "technique": 9,
+        "shooting": 13,
+        "speed": 11,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "edwards",
+      "name": "Edwards",
+      "nationality": "WALES",
+      "position": "RE",
+      "number": 12,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "saunders",
+      "name": "Saunders",
+      "nationality": "WALES",
+      "position": "RE",
+      "number": 13,
+      "stats": {
+        "technique": 7,
+        "shooting": 7,
+        "speed": 8,
+        "stamina": 11
+      }
+    },
+    {
+      "id": "southall",
+      "name": "Southall",
+      "nationality": "WALES",
+      "position": "RE",
+      "number": 14,
+      "stats": {
+        "technique": 7,
+        "shooting": 9,
+        "speed": 8,
+        "stamina": 10
+      }
+    },
+    {
+      "id": "dbowen",
+      "name": "D. Bowen",
+      "nationality": "WALES",
+      "position": "RE",
+      "number": 15,
+      "stats": {
+        "technique": 5,
+        "shooting": 7,
+        "speed": 9,
+        "stamina": 11
+      }
+    }
+  ]
+}
