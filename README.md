@@ -1,7 +1,7 @@
 # International SuperTramp Soccer
 
 International SuperTramp Soccer is a super trump game inspired in International SuperStar Soccer from Super Nintendo (Konami).  
-The author is BIG fan of the SNES game, it's and old project finally implemented using AI.  
+The [author](https://github.com/eurafa) is BIG fan of the SNES game, it's and old project finally implemented using AI.  
 
 Nostalgic!  
 I had very good times playing this game with family and friends! 🕹️
