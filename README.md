@@ -1,32 +1,45 @@
-# International Superstar Soccer — Player Cards
+# International SuperTramp Soccer
 
-This project was created by a super fan of the SNES game International Superstar Soccer! This has been an old idea that was finally implemented.
+International SuperTramp Soccer is a super trump game inspired in International SuperStar Soccer from Super Nintendo (Konami).  
+The author is BIG fan of the SNES game, it's and old project finally implemented using AI.  
 
-![Galfano (ITA-10)](screenshot.png)
+Nostalgic!  
+I had very good times playing this game with family and friends! 🕹️
 
-Check it out live: [https://international-supertrump-soccer.vercel.app/](https://international-supertrump-soccer.vercel.app/)
+Take a look, share, have fun! ⚽
 
-## Prerequisites
-- Node.js 18 or later
+[https://international-supertrump-soccer.vercel.app](https://international-supertrump-soccer.vercel.app/)
+
+![Screenshot](screenshot.png)
 
 ## Run locally
+
+### Prerequisites
+
+- Node.js 18 or later
+
+### Build
+
 ```bash
 npm install
+npm run build
+```
+
+### Run
+
+```bash
 npm run dev
 ```
 
-## Build
-```bash
-npm run build
-npm run preview
-```
-
 ## Contributing
-For graphics (player images), designers can create or edit PNGs in `src/data/player-images/`! Player images should follow the naming pattern: `{nationalityShort}{number}-{id}.png` (e.g. `arg1-garcia.png`). If a custom image doesn't exist, `player.png` will be used as a fallback.
 
-For code improvements, raise a PR!
+Feel free to contribute!
 
----
+We can improve the UI, add player images and more new features! Bring your ideas!
+
+Have fun and raise your PR!
+
+## Donation
 
 <a href="https://www.buymeacoffee.com/eurafa" alt="Buy Me A Coffee">
 <img src="https://github.com/eurafa/eurafa/blob/main/buy-me-a-coffee-qr-code.png?raw=true" width="100" align="right"/>
@@ -34,4 +47,7 @@ For code improvements, raise a PR!
 </a>
 <a href="https://www.paypal.com/donate/?business=eu.rafa@gmail.com" alt="Donate via PayPal">
 <img src="PayPal-QR-Code.png" width="100" align="right"/>
+</a>
+<a href="https://www.paypal.com/donate/?business=53YNUUWA5R94A&no_recurring=0&currency_code=USD" alt="Donate via PayPal">
+<img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" align="right" width="180px"/>
 </a>
