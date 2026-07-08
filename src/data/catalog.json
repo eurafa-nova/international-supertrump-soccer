@@ -517,6 +517,7 @@
       "nationality": "BELGIUM",
       "position": "MF",
       "number": 10,
+      "star": true,
       "stats": {
         "technique": 15,
         "shooting": 11,
@@ -608,6 +609,7 @@
       "nationality": "BRAZIL",
       "position": "DF",
       "number": 2,
+      "star": true,
       "stats": {
         "technique": 13,
         "shooting": 9,
@@ -673,6 +675,7 @@
       "nationality": "BRAZIL",
       "position": "FW",
       "number": 7,
+      "star": true,
       "stats": {
         "technique": 15,
         "shooting": 9,
@@ -921,6 +924,7 @@
       "nationality": "BULGARIA",
       "position": "FW",
       "number": 11,
+      "star": true,
       "stats": {
         "technique": 11,
         "shooting": 9,
@@ -1311,6 +1315,7 @@
       "nationality": "COLUMBIA",
       "position": "FW",
       "number": 11,
+      "star": true,
       "stats": {
         "technique": 9,
         "shooting": 11,
@@ -2694,6 +2699,7 @@
       "nationality": "ITALY",
       "position": "FW",
       "number": 12,
+      "star": true,
       "stats": {
         "technique": 7,
         "shooting": 9,
@@ -3448,6 +3454,7 @@
       "nationality": "ROMANIA",
       "position": "MF",
       "number": 10,
+      "star": true,
       "stats": {
         "technique": 13,
         "shooting": 15,

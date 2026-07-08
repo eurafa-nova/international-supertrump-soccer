@@ -4,7 +4,7 @@ import { StatPipes } from "@/components/StatPipes";
 import { nationalityToFlagUrl, getFlagSrcSet, getPlayerImageUrl, getCountryCode } from "@/utils/flag";
 import logoUrl from "@/data/logo.png";
 import grassBgUrl from "@/data/player-images/grass-bg.png";
-import playerFallbackUrl from "@/data/player-images/player1.png";
+import playerFallbackUrl from "@/data/player-images/placeholder.png";
 import "./TrumpCard.css";
 
 interface TrumpCardProps {

@@ -34,7 +34,7 @@ export function getCountryCode(nationality: string): string {
 }
 
 /** Get the player image URL for a given nationality and shirt number.
- *  Falls back to player1.png if no specific image exists. */
+ *  Falls back to placeholder.png if no specific image exists. */
 export function getPlayerImageUrl(nationality: string, number: number): string {
   const code = NATIONALITY_TO_IMG_CODE[nationality.toUpperCase()] ?? nationality.slice(0, 3).toLowerCase();
   const filename = `${code}${number}.png`;
